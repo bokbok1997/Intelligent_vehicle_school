@@ -1,0 +1,7 @@
+{
+    "code-runner.runInTerminal": true,
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "stdlib.h": "c"
+    }
+}
