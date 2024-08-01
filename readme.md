@@ -7,20 +7,20 @@
 <h2>5월</h2>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th style="width: 180px; background-color: #f2f2f2; color: red;">일</th>
+    <th style="width: 180px; background-color: #f2f2f2;">일</th>
     <th style="width: 180px; background-color: #f2f2f2;">월</th>
     <th style="width: 180px; background-color: #f2f2f2;">화</th>
     <th style="width: 180px; background-color: #f2f2f2;">수</th>
     <th style="width: 180px; background-color: #f2f2f2;">목</th>
     <th style="width: 180px; background-color: #f2f2f2;">금</th>
-    <th style="width: 180px; background-color: #f2f2f2; color: blue;">토</th>
+    <th style="width: 180px; background-color: #f2f2f2;">토</th>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td>23<br>오리엔테이션</td>
+    <td style="color: red;">23<br>오리엔테이션</td>
     <td>24</td>
     <td style="color: blue;">25</td>
   </tr>
@@ -38,13 +38,13 @@
 <h2>6월</h2>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th style="width: 180px; background-color: #f2f2f2; color: red;">일</th>
+    <th style="width: 180px; background-color: #f2f2f2;">일</th>
     <th style="width: 180px; background-color: #f2f2f2;">월</th>
     <th style="width: 180px; background-color: #f2f2f2;">화</th>
     <th style="width: 180px; background-color: #f2f2f2;">수</th>
     <th style="width: 180px; background-color: #f2f2f2;">목</th>
     <th style="width: 180px; background-color: #f2f2f2;">금</th>
-    <th style="width: 180px; background-color: #f2f2f2; color: blue;">토</th>
+    <th style="width: 180px; background-color: #f2f2f2;">토</th>
   </tr>
   <tr>
     <td style="color: red;">2</td>
@@ -87,16 +87,16 @@
 <h2>7월</h2>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th style="width: 180px; background-color: #f2f2f2; color: red;">일</th>
+    <th style="width: 180px; background-color: #f2f2f2;">일</th>
     <th style="width: 180px; background-color: #f2f2f2;">월</th>
     <th style="width: 180px; background-color: #f2f2f2;">화</th>
     <th style="width: 180px; background-color: #f2f2f2;">수</th>
     <th style="width: 180px; background-color: #f2f2f2;">목</th>
     <th style="width: 180px; background-color: #f2f2f2;">금</th>
-    <th style="width: 180px; background-color: #f2f2f2; color: blue;">토</th>
+    <th style="width: 180px; background-color: #f2f2f2;">토</th>
   </tr>
   <tr>
-    <td style="color: red;"></td>
+    <td style="color: red;">30</td>
     <td>1<br>마이크로프로세서 기본요소 및 작동원리 이해</td>
     <td>2<br>마이크로프로세서 기본요소 및 작동원리 이해</td>
     <td>3<br>Trace32 사용법</td>
@@ -145,13 +145,13 @@
 <h2>8월</h2>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th style="width: 180px; background-color: #f2f2f2; color: red;">일</th>
+    <th style="width: 180px; background-color: #f2f2f2;">일</th>
     <th style="width: 180px; background-color: #f2f2f2;">월</th>
     <th style="width: 180px; background-color: #f2f2f2;">화</th>
     <th style="width: 180px; background-color: #f2f2f2;">수</th>
     <th style="width: 180px; background-color: #f2f2f2;">목</th>
     <th style="width: 180px; background-color: #f2f2f2;">금</th>
-    <th style="width: 180px; background-color: #f2f2f2; color: blue;">토</th>
+    <th style="width: 180px; background-color: #f2f2f2;">토</th>
   </tr>
   <tr>
     <td></td>
@@ -203,13 +203,13 @@
 <h2>9월</h2>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th style="width: 180px; background-color: #f2f2f2; color: red;">일</th>
+    <th style="width: 180px; background-color: #f2f2f2;">일</th>
     <th style="width: 180px; background-color: #f2f2f2;">월</th>
     <th style="width: 180px; background-color: #f2f2f2;">화</th>
     <th style="width: 180px; background-color: #f2f2f2;">수</th>
     <th style="width: 180px; background-color: #f2f2f2;">목</th>
     <th style="width: 180px; background-color: #f2f2f2;">금</th>
-    <th style="width: 180px; background-color: #f2f2f2; color: blue;">토</th>
+    <th style="width: 180px; background-color: #f2f2f2;">토</th>
   </tr>
   <tr>
     <td style="color: red;">1</td>
@@ -261,13 +261,13 @@
 <h2>10월</h2>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th style="width: 180px; background-color: #f2f2f2; color: red;">일</th>
+    <th style="width: 180px; background-color: #f2f2f2;">일</th>
     <th style="width: 180px; background-color: #f2f2f2;">월</th>
     <th style="width: 180px; background-color: #f2f2f2;">화</th>
     <th style="width: 180px; background-color: #f2f2f2;">수</th>
     <th style="width: 180px; background-color: #f2f2f2;">목</th>
     <th style="width: 180px; background-color: #f2f2f2;">금</th>
-    <th style="width: 180px; background-color: #f2f2f2; color: blue;">토</th>
+    <th style="width: 180px; background-color: #f2f2f2;">토</th>
   </tr>
   <tr>
     <td></td>
@@ -319,13 +319,13 @@
 <h2>11월</h2>
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th style="width: 180px; background-color: #f2f2f2; color: red;">일</th>
+    <th style="width: 180px; background-color: #f2f2f2;">일</th>
     <th style="width: 180px; background-color: #f2f2f2;">월</th>
     <th style="width: 180px; background-color: #f2f2f2;">화</th>
     <th style="width: 180px; background-color: #f2f2f2;">수</th>
     <th style="width: 180px; background-color: #f2f2f2;">목</th>
     <th style="width: 180px; background-color: #f2f2f2;">금</th>
-    <th style="width: 180px; background-color: #f2f2f2; color: blue;">토</th>
+    <th style="width: 180px; background-color: #f2f2f2;">토</th>
   </tr>
   <tr>
     <td></td>
