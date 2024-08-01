@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>IVS 2기 교육 일정</h1>
+<h1>HL Mando & HL Klemove Intelligent Vehicle School 2기</h1>
 
 <h2>5월</h2>
 <table border="1" cellspacing="0" cellpadding="5">
