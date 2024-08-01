@@ -135,7 +135,7 @@
     <td style="color: red;"><b>28</b></td>
     <td>29<br>자동화 테스팅을 통한 Black Box Testing 및 검증의 이해</td>
     <td>30<br>자동화 테스팅을 통한 Black Box Testing 및 검증의 이해</td>
-    <td>31<br>SW 테스팅 기초</td>
+    <td>31<br><a href="https://github.com/bokbok1997/Intelligent_vehicle_school/tree/master/SW%20%ED%85%8C%EC%8A%A4%ED%8C%85%20%EA%B8%B0%EC%B4%88" style="color:grey;">SW 테스팅 기초</td>
     <td></td>
     <td></td>
     <td></td>
@@ -159,7 +159,7 @@
     <td></td>
     <td></td>
     <td>1<br><a href="https://github.com/bokbok1997/Intelligent_vehicle_school/tree/master/SW%20%ED%85%8C%EC%8A%A4%ED%8C%85%20%EA%B8%B0%EC%B4%88">SW 테스팅 기초</td>
-    <td>2<br>SW 테스팅 기초</td>
+    <td>2<br><a href="https://github.com/bokbok1997/Intelligent_vehicle_school/tree/master/SW%20%ED%85%8C%EC%8A%A4%ED%8C%85%20%EA%B8%B0%EC%B4%88">SW 테스팅 기초</td>
     <td>3</td>
   </tr>
   <tr>
