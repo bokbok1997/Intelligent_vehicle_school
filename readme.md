@@ -351,8 +351,8 @@
     <td>12<br>Adaptive Cruise Control System</td>
     <td>13<br>Adaptive Cruise Control System</td>
     <td>14<br>Adaptive Cruise Control System</td>
-    <td>15<br>수료식</td>
-    <td>16</td>
+    <td><b>15<br>수료식</b></td>
+    <td></td>
   </tr>
 </table>
 
