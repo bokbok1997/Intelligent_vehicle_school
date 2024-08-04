@@ -50,14 +50,14 @@
     <td style="color: red;"><b>2</b></td>
     <td>3<br>Python 프로그래밍</td>
     <td>4<br>Python 프로그래밍</td>
-    <td>5<br>차량 검정시스템의 이해</td>
+    <td>5<br>차량용 통신시스템 이해와 활용</td>
     <td><b>6<br>현충일</b></td>
-    <td>7<br>차량 검정시스템의 이해</td>
+    <td>7<br>차량용 통신시스템 이해와 활용</td>
     <td>8</td>
   </tr>
   <tr>
     <td style="color: red;"><b>9</b></td>
-    <td>10<br>차량 검정시스템의 이해</td>
+    <td>10<br>차량용 통신시스템 이해와 활용</td>
     <td>11<br>SW 공학</td>
     <td>12<br>SW 공학</td>
     <td>13<br>SW 공학</td>
